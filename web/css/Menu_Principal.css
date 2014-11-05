@@ -1,0 +1,126 @@
+
+*{
+	margin:0 auto; 
+}
+                    body{ 
+                         background-image: url('/Prec_Pre-Profesionales/imagenes/fondo.png');
+                         width: auto;
+                         height: 100%;
+                         font-family:Verdana, Geneva, sans-serif;
+                         font-weight:bold;
+                       }
+ 
+.header{    
+    background-color: #A62A2A;
+    color: #ffffff;  
+    font-size: 150%;   
+    height: 160px;
+    width: 80%;
+    padding: 40px;
+    text-align: center;
+    font-family: serif;
+    
+/*         color:#0F0;
+         text-shadow: 1px 1px 1px #000,
+         0 0 10px #FFF,0 0 20px #FFF,0 0 30px #FFF,0 0 40px #FFde00,
+         0 0 70px #FFde00,0 0 80px #FFde00,0 0 100px #FFde00,
+         0 0 150px #FFde00;*/
+	}
+     
+       #wraper{
+                width: 700px;
+                height: auto;                
+            }
+     
+
+          #nav{    // segundo 
+
+               border-radius:50px;
+                padding:5px;
+                height: 50px;
+                width: 80%;
+                background-color: #006633;
+                
+            }
+         
+            nav ul{
+                list-style: none; 
+/*                display: block;*/
+            }
+            nav ul li{
+                float: left; 
+                margin: 0 9px;
+            }
+            nav li a {
+		display: block;
+/*		padding: 8px 10px;*/
+		text-decoration: none;
+		font-weight: bold;
+		color: #FFFF00;
+/*		border-right: 1px solid #ccc; */
+            }
+            
+            .article{
+                 background: #8FBC8F;
+                 height:500px;
+                 width: 80%;
+            }
+              
+            .footer{
+                 background: #009900;
+                 width: 80%;
+                 height: 30px;
+                 
+                  
+            }
+            
+         /*colores de las letras*/   
+            
+        h3  {
+            color:red;
+          }
+          h5  {
+            color:red;
+           }
+          
+           
+           .letra{
+               color:#0F0;
+                 text-shadow: 2px 2px 2px #000,
+                 0 0 10px #FFF,0 0 20px #FFF,0 0 30px #FFF,0 0 40px #FFde00,
+                 0 0 70px #FFde00,0 0 80px #FFde00,0 0 100px #FFde00,
+                 0 0 150px #FFde00;
+           }
+            
+     
+            
+.bottom{
+    background-color: #269abc;
+    height: 52220px;
+    padding: 10px;
+    text-align: center;
+    color: #abe5f8
+}
+.content{
+   padding: 0px;    // espacio de separacion 
+}
+.menu{
+    margin-top: 10px;    
+}
+
+#caja_logueo{
+    width: 350px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 250px;
+    margin-top: 50px;
+    box-shadow:1px 1px 5px #e5e7e7;   
+    -webkit-transition:500ms;
+}
+#mensaje{
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
