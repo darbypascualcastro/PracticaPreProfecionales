@@ -1,0 +1,119 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div>
+    
+     <div class="header">
+          JOB upeu<br>
+        La Práctica Pre Profesional es una actividad curricular <br>
+        estas realizan a partir del decimo ciclo académico o haber aprobado el 100% <br>
+        del total de créditos de su Escuela Académico Profesional.
+      </div>
+    
+ <div class="article">
+                <article>
+               
+                <table  align="right" border="6" width="1215" height="200">
+                        <tbody>
+                            <tr>
+                               <TD HEIGHT=160 width=400 BACKGROUND="imagenes/1.jpg">       <br><br><br><br><br>
+                                  <div style="border: 3pt solid #fbb; text-align: center;"> 
+                                     
+                                        <div  class="letra">
+                                           <form class="form-signin" method="post" action="cindex"> 
+                                               
+                                               <a  href="BolsaRegistro.jsp" target="contenido"><h4>Oportunidad de Trabajo</h4></a>
+                                              
+                                           </form>
+                                    </div>
+                                  
+                                  </div> 
+                                </TD>
+                                
+                                <TD HEIGHT=160 width=400 BACKGROUND="imagenes/4.jpg">       <br><br><br><br><br> 
+                                  <div style="border: 3pt solid #fbb; text-align: center;"> 
+                                       <div class="letra">
+                                           <form class="form-signin" method="post" action="cindex"> 
+                                               <div><a href="principal.jsp" ><h4>BOLSA DE TRAJO</h4></a></div>
+                                           </form>
+                                       </div>
+                                  </div> 
+                                </TD>
+                            
+                            
+                            
+                                <TD HEIGHT=160 width=400 BACKGROUND="imagenes/2.png">        <br><br><br><br><br> <br>
+                                  <div style="border: 3pt solid #fbb; text-align: center;"> 
+                                       <div class="letra">
+                                           <form class="form-signin" method="post" action="cindex"> 
+                                               <div><a href="principal.jsp" ><h4>test</h4></a></div>
+                                           </form>
+                                       </div>
+                                  </div> 
+                                </TD>
+                           </tr>
+                            
+                        </tbody>
+                    </table>
+                    
+         <table align="left" border="4" width="1215" height="102">
+            <tr>
+               <td BACKGROUND="imagenes/verde.jpg"> 
+                    <h5>2da jornada cientifica ,, informacion de cada mes que se va a llevar durante un año l </h5> 
+                    <h5> basicamente e informaciones de </h5> 
+                 </td>
+            </tr> 
+          </table>
+        
+                    <table align="right" border="6" width="1215" height="200">
+                        <tbody>
+                          <tr>      
+                                <TD HEIGHT=160 width=400 BACKGROUND="imagenes/5.png">         <br><br><br><br><br> <br>
+                                  <div style="border: 3pt solid #fbb; text-align: center;"> 
+                                       <div class="letra">
+                                           <form class="form-signin" method="post" action="cindex"> 
+                                               <div><a href="principal.jsp" ><h4>INFORMACIONES</h4></a></div>
+                                           </form>
+                                       </div>
+                                  </div> 
+                                </TD>
+                            
+                                <TD HEIGHT=160 width=400 BACKGROUND="imagenes/3.jpg">           <br><br><br><br><br><br>
+                                  <div style="border: 3pt solid #fbb; text-align: center;"> 
+                                       <div class="letra">
+                                           <form class="form-signin" method="post" action="cindex"> 
+                                               <div><a href="principal.jsp" ><h4>practicas pre profesionales</h4></a></div>
+                                           </form>
+                                       </div>
+                                  </div> 
+                                </TD>
+                                <TD HEIGHT=160 width=400 BACKGROUND="imagenes/6.jpg">           <br><br><br><br><br><br>
+                                  <div style="border: 3pt solid #fbb; text-align: center;"> 
+                                       <div class="letra">
+                                           <form class="form-signin" method="post" action="cindex"> 
+                                               <div><a href="principal.jsp" ><h4>FIA</h4></a></div>
+                                           </form>
+                                       </div>
+                                  </div> 
+                                </TD>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+                </article>
+           
+             </div>
+        
+       
+        
+        
+     <%-- pie de pagina --%>
+            <div class="footer">
+                <footer>
+                    <header>
+                        <h1><marquee bgcolor="238E23" behavior="ALTERNATE">En Busquedad de informacion</marquee></h1>
+                    </header>
+                </footer>
+             </div>
+    </div>          
+       
+    <div class="content">
